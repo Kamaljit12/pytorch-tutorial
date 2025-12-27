@@ -5,3 +5,7 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+seaborn
+tensorflow
+torchvision
